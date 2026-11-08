@@ -17,8 +17,10 @@
 | 문서 | 내용 |
 | --- | --- |
 | [`conventions/`](./conventions) | 팀 공용 컨벤션 — 브랜치·PR·커밋 |
+| [`planning/PRD.md`](./planning/PRD.md) | 기획서 (PRD) — 기능·승인 기준·화면 목록·열린 질문 |
+| [`architecture/Architecture.md`](./architecture/Architecture.md) | 아키텍처 — 공개 API(`/api/v1`)·AI 내부 API(`/internal/v1`) 규격, 데이터 모델, 파트별 요청 |
 
-> 기획안, 아키텍처, API 정의서는 확정되는 대로 추가합니다.
+> 기획서·아키텍처는 backend 저장소 `docs/`가 원본이고, 여기에는 사본을 올립니다(각 문서 맨 위에 원본 커밋 표시).
 
 ## 문서 배치 규칙
 
